@@ -1,0 +1,24 @@
+2025/02/23-06:23:02.388 17dc Reusing MANIFEST C:\Users\diana\Desktop\bot\_IGNORE_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/23-06:23:02.390 17dc Recovering log #58
+2025/02/23-06:23:02.393 17dc Reusing old log C:\Users\diana\Desktop\bot\_IGNORE_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000058.log 
+2025/02/23-06:23:03.563 2980 Level-0 table #64: started
+2025/02/23-06:23:03.637 2980 Level-0 table #64: 26503 bytes OK
+2025/02/23-06:23:03.653 2980 Delete type=0 #58
+2025/02/23-06:23:03.655 2658 Manual compaction at level-0 from '\x00\x1a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/23-06:23:03.660 2658 Level-0 table #66: started
+2025/02/23-06:23:03.672 2658 Level-0 table #66: 301 bytes OK
+2025/02/23-06:23:03.676 2658 Delete type=0 #63
+2025/02/23-06:23:03.679 1a4c Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1b\x00\x00\x05' @ 195535 : 0
+2025/02/23-06:23:03.680 1a4c Compacting 1@0 + 1@1 files
+2025/02/23-06:23:03.688 1a4c Generated table #67@0: 859 keys, 16284 bytes
+2025/02/23-06:23:03.688 1a4c Compacted 1@0 + 1@1 files => 16284 bytes
+2025/02/23-06:23:03.690 1a4c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/23-06:23:03.692 1a4c Delete type=2 #66
+2025/02/23-06:23:03.702 1a4c Manual compaction at level-0 from '\x00\x1b\x00\x00\x05' @ 195535 : 0 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/23-06:23:15.618 1a4c Compacting 1@1 + 1@2 files
+2025/02/23-06:23:18.921 1a4c Generated table #68@1: 45185 keys, 2104266 bytes
+2025/02/23-06:23:18.921 1a4c Compacted 1@1 + 1@2 files => 2104266 bytes
+2025/02/23-06:23:18.925 1a4c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/23-06:23:18.926 1a4c Delete type=2 #61
+2025/02/23-06:23:18.927 1a4c Delete type=2 #64
+2025/02/23-06:23:18.928 1a4c Delete type=2 #67
